@@ -1,0 +1,470 @@
+fileFormatVersion: 2
+guid: daa7cd719f51df548a414cff2b08cea8
+timeCreated: 1645111971
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Podkreslnik
+    21300002: Gradient
+    21300004: Frame
+    21300006: FourFrame
+    21300008: RadialGradient
+    21300010: OutlineSmallButton
+    21300012: ThinOutlineSquare
+    21300014: FillSquare
+    21300016: Background
+    21300018: Dots
+    21300020: TutorialFrame2
+    21300022: fillxframe
+    21300024: FillSmallButton
+    21300026: TutorialFrame3
+    21300028: xframe
+    21300030: FlatCornersSquare
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Podkreslnik
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1840
+        width: 5
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 4, z: 1, w: 1}
+      outline:
+      - - {x: -2.5, y: -3}
+        - {x: -2.5, y: 3}
+        - {x: 2.5, y: 3}
+        - {x: 2.5, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gradient
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 965
+        width: 250
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 15, z: 15, w: 15}
+      outline:
+      - - {x: 114, y: -88}
+        - {x: -125, y: -88}
+        - {x: -125, y: 77}
+        - {x: -114, y: 88}
+        - {x: 125, y: 88}
+        - {x: 125, y: -77}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Frame
+      rect:
+        serializedVersion: 2
+        x: 121.0582
+        y: 1719.027
+        width: 108.8854
+        height: 73.89713
+      alignment: 9
+      pivot: {x: 0.5091755, y: 0.5138663}
+      border: {x: 30.9418, y: 33.97325, z: 28.94363, w: 32.92388}
+      outline:
+      - - {x: -47.50092, y: -36.97532}
+        - {x: -54.50092, y: -33.97532}
+        - {x: -54.50092, y: 24.02468}
+        - {x: -41.50092, y: 37.02468}
+        - {x: 49.49908, y: 37.02468}
+        - {x: 54.49908, y: 35.02468}
+        - {x: 54.49908, y: -36.97532}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FourFrame
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1704
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 17, y: 18, z: 17, w: 18}
+      outline:
+      - - {x: 15, y: 1}
+        - {x: 1, y: 12}
+        - {x: 1, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: 1}
+      - - {x: -12, y: 1}
+        - {x: -20, y: 1}
+        - {x: -20, y: 20}
+        - {x: -1, y: 20}
+        - {x: -1, y: 15}
+      - - {x: 2, y: -20}
+        - {x: 1, y: -19}
+        - {x: 1, y: -12}
+        - {x: 12, y: -1}
+        - {x: 20, y: -1}
+        - {x: 20, y: -20}
+      - - {x: -1, y: -20}
+        - {x: -20, y: -20}
+        - {x: -20, y: -1}
+        - {x: -6, y: -1}
+        - {x: -1, y: -10}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RadialGradient
+      rect:
+        serializedVersion: 2
+        x: 1074.043
+        y: 0.01291275
+        width: 437.9236
+        height: 467.9307
+      alignment: 9
+      pivot: {x: 0.5205408, y: 0.5000464}
+      border: {x: 214.9571, y: 220.9871, z: 196.9665, w: 218.9436}
+      outline:
+      - - {x: -181.0047, y: -146.9783}
+        - {x: -188.0047, y: -134.9783}
+        - {x: -186.0047, y: -123.9783}
+        - {x: -197.0047, y: -111.9783}
+        - {x: -212.0047, y: -75.97827}
+        - {x: -216.0047, y: -53.97828}
+        - {x: -219.0047, y: -44.97827}
+        - {x: -216.0047, y: -30.97827}
+        - {x: -219.0047, y: -20.97827}
+        - {x: -219.0047, y: -9.978271}
+        - {x: -216.0047, y: 0.02172852}
+        - {x: -219.0047, y: 6.021729}
+        - {x: -219.0047, y: 14.02173}
+        - {x: -215.0047, y: 40.02173}
+        - {x: -212.0047, y: 62.02173}
+        - {x: -205.0047, y: 89.02173}
+        - {x: -200.0047, y: 100.0217}
+        - {x: -191.0047, y: 122.0217}
+        - {x: -177.0047, y: 145.0217}
+        - {x: -164.0047, y: 163.0217}
+        - {x: -158.0047, y: 163.0217}
+        - {x: -153.0047, y: 176.0217}
+        - {x: -127.0047, y: 191.0217}
+        - {x: -91.00471, y: 209.0217}
+        - {x: -70.00471, y: 218.0217}
+        - {x: -36.00471, y: 228.0217}
+        - {x: -3.004715, y: 234.0217}
+        - {x: 39.99529, y: 234.0217}
+        - {x: 68.99529, y: 230.0217}
+        - {x: 97.99529, y: 220.0217}
+        - {x: 111.9953, y: 215.0217}
+        - {x: 122.9953, y: 203.0217}
+        - {x: 141.9953, y: 195.0217}
+        - {x: 167.9953, y: 171.0217}
+        - {x: 181.9953, y: 154.0217}
+        - {x: 188.9953, y: 135.0217}
+        - {x: 205.9953, y: 100.0217}
+        - {x: 214.9953, y: 76.02173}
+        - {x: 215.9953, y: 70.02173}
+        - {x: 218.9953, y: 35.02173}
+        - {x: 218.9953, y: -18.97827}
+        - {x: 217.9953, y: -26.97827}
+        - {x: 214.9953, y: -48.97827}
+        - {x: 209.9953, y: -58.97827}
+        - {x: 202.9953, y: -91.97827}
+        - {x: 190.9953, y: -116.9783}
+        - {x: 166.9953, y: -153.9783}
+        - {x: 154.9953, y: -160.9783}
+        - {x: 149.9953, y: -173.9783}
+        - {x: 138.9953, y: -186.9783}
+        - {x: 109.9953, y: -202.9783}
+        - {x: 93.99529, y: -212.9783}
+        - {x: 75.99529, y: -221.9783}
+        - {x: 62.99529, y: -225.9783}
+        - {x: 51.99529, y: -230.9783}
+        - {x: 22.99529, y: -233.9783}
+        - {x: -12.00471, y: -233.9783}
+        - {x: -38.00471, y: -230.9783}
+        - {x: -49.00471, y: -228.9783}
+        - {x: -68.00471, y: -220.9783}
+        - {x: -93.00471, y: -212.9783}
+        - {x: -105.0047, y: -207.9783}
+        - {x: -127.0047, y: -194.9783}
+        - {x: -144.0047, y: -179.9783}
+        - {x: -164.0047, y: -163.9783}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OutlineSmallButton
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1704
+        width: 31
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 12, z: 8, w: 12}
+      outline:
+      - - {x: -15.5, y: -13}
+        - {x: -15.5, y: 13}
+        - {x: 15.5, y: 13}
+        - {x: 15.5, y: -13}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ThinOutlineSquare
+      rect:
+        serializedVersion: 2
+        x: 916.0761
+        y: 1490.076
+        width: 102.8478
+        height: 102.8478
+      alignment: 9
+      pivot: {x: 0.5048615, y: 0.4951384}
+      border: {x: 8.92388, y: 8.92388, z: 7.923883, w: 9.923883}
+      outline:
+      - - {x: -51.5, y: -51.5}
+        - {x: -51.5, y: 51.5}
+        - {x: 51.5, y: 51.5}
+        - {x: 51.5, y: -51.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FillSquare
+      rect:
+        serializedVersion: 2
+        x: 1437.076
+        y: 1149.076
+        width: 102.8478
+        height: 102.8478
+      alignment: 9
+      pivot: {x: 0.5048615, y: 0.4951384}
+      border: {x: 8.92388, y: 8.92388, z: 7.923883, w: 9.923883}
+      outline:
+      - - {x: 51.5, y: -51.5}
+        - {x: -51.5, y: -51.5}
+        - {x: -51.5, y: 51.5}
+        - {x: 51.5, y: 51.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background
+      rect:
+        serializedVersion: 2
+        x: 1027.051
+        y: 1490
+        width: 99.94868
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4997433, y: 0.5}
+      border: {x: 44.94868, y: 45, z: 45, w: 45}
+      outline:
+      - - {x: 49.97434, y: -50}
+        - {x: -50.02566, y: -50}
+        - {x: -50.02566, y: 50}
+        - {x: 49.97434, y: 50}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dots
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1317
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: -3.5}
+        - {x: -3.5, y: 3.5}
+        - {x: 3.5, y: 3.5}
+        - {x: 3.5, y: -3.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TutorialFrame2
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1719
+        width: 70
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline:
+      - - {x: 32, y: -31.5}
+        - {x: -35, y: -31.5}
+        - {x: -35, y: 21.5}
+        - {x: -32, y: 31.5}
+        - {x: 35, y: 31.5}
+        - {x: 35, y: -22.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fillxframe
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1490
+        width: 30
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 11, z: 11, w: 11}
+      outline:
+      - - {x: -15, y: -12.5}
+        - {x: -15, y: 12.5}
+        - {x: 15, y: 12.5}
+        - {x: 15, y: -12.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FillSmallButton
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1704
+        width: 31
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 12, z: 8, w: 12}
+      outline:
+      - - {x: -15.5, y: -13}
+        - {x: -15.5, y: 13}
+        - {x: 15.5, y: 13}
+        - {x: 15.5, y: -13}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TutorialFrame3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1840
+        width: 70
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 18, z: 17, w: 5}
+      outline:
+      - - {x: -31, y: -31.5}
+        - {x: -35, y: -30.5}
+        - {x: -35, y: 31.5}
+        - {x: 35, y: 31.5}
+        - {x: 35, y: -23.5}
+        - {x: 34, y: -31.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xframe
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1019
+        width: 30
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 11, z: 11, w: 11}
+      outline:
+      - - {x: -15, y: -12.5}
+        - {x: -15, y: 12.5}
+        - {x: 15, y: 12.5}
+        - {x: 15, y: -12.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlatCornersSquare
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 1260
+        width: 56
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 15, z: 15, w: 15}
+      outline:
+      - - {x: 20, y: -28}
+        - {x: -28, y: -28}
+        - {x: -28, y: 19}
+        - {x: -19, y: 28}
+        - {x: 28, y: 28}
+        - {x: 28, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag:
+  userData:
+  assetBundleName:
+  assetBundleVariant:
